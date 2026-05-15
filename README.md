@@ -2,4 +2,4 @@
 
 java/js dev
 
-learning low/mid level languages
+learning high level languages
