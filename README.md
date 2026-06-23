@@ -2,4 +2,4 @@
 
 bad java/js dev
 
-learning high level languages
+learning crystal
