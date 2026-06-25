@@ -3,3 +3,5 @@
 bad java/js dev
 
 learning crystal
+
+contributor to various mc related things
