@@ -2,6 +2,6 @@
 
 bad java/js dev
 
-learning crystal
+learning crystal & kemal
 
 contributor to various mc related things
